@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm Maria Antonia from Brazil<br><br>- 🔭 I’m a software analysis and development student<br>- 📚 I'm currently learning C <br>
+<p align="left">I'm Maria Antonia from Brazil<br><br>- 🔭 I’m a software engineering student<br>- 📚 I'm currently learning C <br>
 
 ###
 
