@@ -14,7 +14,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">👋 Hi there, welcome to my Github profile</h1>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm Maria Antonia from Brazil<br><br>- 🔭 I’m a student<br>- 📚 I'm currently learning C <br>- ⚡ In my free time I like to spend time with my family</p>
+<p align="left">I'm Maria Antonia from Brazil<br><br>- 🔭 I’m a software analysis and development student<br>- 📚 I'm currently learning C <br>
 
 ###
 
