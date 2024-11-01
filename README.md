@@ -61,3 +61,6 @@
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/mariastrajano/mariastrajano/output/snake.svg" alt="Snake animation" />
+
+###
